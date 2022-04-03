@@ -8,4 +8,4 @@ Repository ini dibuat untuk memenuhi tugas Latihan 7 praktikum mata kuliah Desai
 
 ### GIF
 
-  ![GIF Program](https://github.com/hlmnn/LATIHAN5DPBO2022/blob/master/Screenshot/demo.gif)
+  ![GIF Program](https://github.com/hlmnn/LATIHAN7DPBO2022/blob/master/Screenshot/demo.gif)
